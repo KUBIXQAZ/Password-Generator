@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\PROGRAMMING-PROJECTS\\csharp-apps\\password_generator\\password_generator.csproj",
+      "projectUniqueName": "D:\\PROGRAMMING-PROJECTS\\csharp-apps\\password_generator_net6\\password_generator.csproj",
       "projectName": "password_generator",
-      "projectPath": "D:\\PROGRAMMING-PROJECTS\\csharp-apps\\password_generator\\password_generator.csproj",
+      "projectPath": "D:\\PROGRAMMING-PROJECTS\\csharp-apps\\password_generator_net6\\password_generator.csproj",
       "packagesPath": "C:\\Users\\kubaj\\.nuget\\packages\\",
-      "outputPath": "D:\\PROGRAMMING-PROJECTS\\csharp-apps\\password_generator\\obj\\",
+      "outputPath": "D:\\PROGRAMMING-PROJECTS\\csharp-apps\\password_generator_net6\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\kubaj\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -61,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }

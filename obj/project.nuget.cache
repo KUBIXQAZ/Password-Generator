@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mlW2pmKLG9r4aWqW31p4kfkgszTywGEVxQx9vUEDbT2oN7QA3UGy83RWuIW0a1m9i4KIDODNWvP4pKiHUUSyMg==",
+  "dgSpecHash": "xMJDya7D/RX1XRrSHRgLQmgdzt8Kyjxd03PpGjEwUyM4Sxl9Lwf0DQnIXhYzXFImqFcoW1ppuuU4/KRJo/vz9Q==",
   "success": true,
-  "projectFilePath": "D:\\PROGRAMMING-PROJECTS\\csharp-apps\\password_generator\\password_generator.csproj",
+  "projectFilePath": "D:\\PROGRAMMING-PROJECTS\\csharp-apps\\password_generator_net6\\password_generator.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
