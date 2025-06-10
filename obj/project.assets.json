@@ -1,38 +1,44 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {}
+    "net9.0": {}
   },
   "libraries": {},
   "projectFileDependencyGroups": {
-    "net6.0": []
+    "net9.0": []
   },
   "packageFolders": {
-    "C:\\Users\\kubaj\\.nuget\\packages\\": {}
+    "C:\\Users\\ADMIN\\.nuget\\packages\\": {},
+    "D:\\VisualStudio\\VSCommunity\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\PROGRAMMING-PROJECTS\\csharp-apps\\password_generator_net6\\password_generator.csproj",
-      "projectName": "password_generator",
-      "projectPath": "D:\\PROGRAMMING-PROJECTS\\csharp-apps\\password_generator_net6\\password_generator.csproj",
-      "packagesPath": "C:\\Users\\kubaj\\.nuget\\packages\\",
-      "outputPath": "D:\\PROGRAMMING-PROJECTS\\csharp-apps\\password_generator_net6\\obj\\",
+      "projectUniqueName": "D:\\PROGRAMMING-PROJECTS\\csharp-apps\\PasswordGenerator\\PasswordGenerator.csproj",
+      "projectName": "PasswordGenerator",
+      "projectPath": "D:\\PROGRAMMING-PROJECTS\\csharp-apps\\PasswordGenerator\\PasswordGenerator.csproj",
+      "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
+      "outputPath": "D:\\PROGRAMMING-PROJECTS\\csharp-apps\\PasswordGenerator\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "D:\\VisualStudio\\VSCommunity\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\kubaj\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "D:\\Windows\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
-        "net6.0"
+        "net9.0"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6.0",
+        "net9.0": {
+          "targetAlias": "net9.0",
           "projectReferences": {}
         }
       },
@@ -40,11 +46,17 @@
         "warnAsError": [
           "NU1605"
         ]
-      }
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "9.0.200"
     },
     "frameworks": {
-      "net6.0": {
-        "targetAlias": "net6.0",
+      "net9.0": {
+        "targetAlias": "net9.0",
         "imports": [
           "net461",
           "net462",
@@ -61,7 +73,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
